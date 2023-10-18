@@ -1,0 +1,36 @@
+1697592824136	geckodriver	INFO	Listening on 127.0.0.1:50026
+1697592827237	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50027" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\vaish\\AppData\\Local\\Temp\\rust_mozprofileYOekqz"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697592828117	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697592828356	Marionette	INFO	Listening on port 50042
+Read port: 50042
+WebDriver BiDi listening on ws://127.0.0.1:50027
+1697592828525	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50027/devtools/browser/76184232-2d3f-464b-be6e-a4ec78fee82f
+JavaScript warning: https://www.makemytrip.com/Z2rqIUmvu/RyP/je5mvQ/w3a3pfmJXX7mO1/RDU6OHkC/BX/taTwIpOjYB, line 1: unreachable code after return statement
+1697592835895	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.makemytrip.com/Z2rqIUmvu/RyP/je5mvQ/w3a3pfmJXX7mO1/RDU6OHkC/BX/taTwIpOjYB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.makemytrip.com/Z2rqIUmvu/RyP/je5mvQ/w3a3pfmJXX7mO1/RDU6OHkC/BX/taTwIpOjYB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.makemytrip.com/Z2rqIUmvu/RyP/je5mvQ/w3a3pfmJXX7mO1/RDU6OHkC/BX/taTwIpOjYB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1697592893174	Marionette	INFO	Stopped listening on port 50042
+Dynamically enable window occlusion 1
+1697593045366	geckodriver	INFO	Listening on 127.0.0.1:50243
+1697593048420	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50244" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\vaish\\AppData\\Local\\Temp\\rust_mozprofileKu4fJE"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697593048958	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697593049104	Marionette	INFO	Listening on port 50254
+WebDriver BiDi listening on ws://127.0.0.1:50244
+Read port: 50254
+1697593049533	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50244/devtools/browser/b2d5861a-90bb-49b5-9aef-64a6965313a1
+JavaScript warning: https://www.makemytrip.com/Z2rqIUmvu/RyP/je5mvQ/w3a3pfmJXX7mO1/RDU6OHkC/BX/taTwIpOjYB, line 1: unreachable code after return statement
+1697593055829	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.makemytrip.com/Z2rqIUmvu/RyP/je5mvQ/w3a3pfmJXX7mO1/RDU6OHkC/BX/taTwIpOjYB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.makemytrip.com/Z2rqIUmvu/RyP/je5mvQ/w3a3pfmJXX7mO1/RDU6OHkC/BX/taTwIpOjYB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.makemytrip.com/Z2rqIUmvu/RyP/je5mvQ/w3a3pfmJXX7mO1/RDU6OHkC/BX/taTwIpOjYB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1697593071485	Marionette	INFO	Stopped listening on port 50254
+Dynamically enable window occlusion 1
